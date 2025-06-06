@@ -1,0 +1,21 @@
+Date: 2025-06-05
+Time: 11:11
+Cashier: kimdeseree.pestijo02@gmail.com
+Items Purchased:
+Scallops in Brown Butter - 5 pcs = 9000.0 pesos
+Tuna Tartare with Avocado Mousse - 4 pcs = 6400.0 pesos
+Lobster Thermidor - 5 pcs = 12500.0 pesos
+King Crab Legs with Garlic Butter - 6 pcs = 13200.0 pesos
+Total Amount: 41100.0 pesos
+--------------------------
+Date: 2025-06-06
+Time: 11:20
+Cashier: kimdeseree.pestijo02@gmail.com
+Items Purchased:
+Grilled Octopus with Citrus Aioli - 3 pcs = 4500.0 pesos
+Scallops in Brown Butter - 2 pcs = 3600.0 pesos
+Tuna Tartare with Avocado Mousse - 2 pcs = 3200.0 pesos
+Lobster Thermidor - 4 pcs = 10000.0 pesos
+King Crab Legs with Garlic Butter - 5 pcs = 11000.0 pesos
+Total Amount: 32300.0 pesos
+--------------------------
